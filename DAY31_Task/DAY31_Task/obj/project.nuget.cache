@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y1HRAVDQZzQNotGkLhcCEq93k39Zz3j5mWDtetwgONWdjtcTFxZu6Qz4JL7FLdPOk9mzbr7FZdYn81mfQ8ke2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Comp\\source\\repos\\DAY31_Task\\DAY31_Task\\DAY31_Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Comp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
